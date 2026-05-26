@@ -1,65 +1,78 @@
 Harsha B
 AI & Full Stack Developer
+Bangalore, Karnataka | +91-9900469878 | harshab845384@gmail.com
+LinkedIn: https://www.linkedin.com/in/harsha-b-0b1034259/
+GitHub: https://github.com/harsha-b-dev
+Portfolio: https://harsha-portfolio-lilac.vercel.app/
 
-Tagline
-Building AI-powered full stack applications and intelligent software systems.
+Professional Summary
+Graduated Information Science and Engineering student and AI & Full Stack Developer with hands-on experience building AI-powered web applications, REST APIs, dashboards, database systems, and machine learning based products. Skilled in React.js, Python, FastAPI, Flask, Node.js, MongoDB, MySQL, AI integration, and analytics tools. Strong interest in creating scalable, user-centric software systems that solve real-world problems.
 
-About
-I am an AI & Full Stack Developer passionate about building intelligent, scalable, and user-centric applications. I love combining AI, Machine Learning, and Full Stack technologies to solve real-world problems and create impactful solutions.
+Technical Skills
+Frontend: HTML, CSS, JavaScript, React.js
+Backend: Python, FastAPI, Flask, Node.js, Express.js, REST APIs
+Databases: MySQL, MongoDB, SQLite, SQL
+AI/ML & Data: Machine Learning, AI Integration, scikit-learn, XGBoost, Pandas, NumPy, Groq API
+Analytics/Tools: Power BI, Tableau, Excel, Chart.js, Swagger, Postman, Git, GitHub, Render
 
-Skills
-HTML, CSS, JavaScript, React.js, Node.js, Express.js, Python, FastAPI, Flask, MongoDB, MySQL, SQL, Git, GitHub, Machine Learning, AI Integration, REST APIs, Power BI, Tableau, Excel
-
-Education
-Sri Krishna Institute of Technology, Bangalore
-B.E in Information Science and Engineering
-CGPA: 8.0
-
-JS Pre University College, Bangalore
-80%
-
-Internships
-E2E Rosh IT Solutions India Pvt Ltd
-AI-Powered Full Stack Development Intern
+Professional Experience
+AI Junior Engineer | BEL (Bharat Electronics Limited) / E2E Rosh IT Solutions India Pvt Ltd
 Jan 2026 - May 2026
-Worked on AI-integrated full stack applications, REST APIs, cloud deployment, interactive dashboards, and database systems.
-Technologies: Python, FastAPI, MySQL, MongoDB, Groq API, HTML, CSS, JavaScript, Chart.js, Render, Swagger, GitHub
-Also worked inside BEL office as AI Junior Engineer during internship period on AI-oriented enterprise project activities.
+- Built AI-integrated full stack application modules using Python, FastAPI, MySQL, MongoDB, JavaScript, and Groq API.
+- Developed REST APIs, interactive dashboards, database workflows, and deployment-ready backend features.
+- Worked with Chart.js, Swagger, Render, and GitHub for API documentation, visualization, deployment, and version control.
+- Contributed to AI-oriented enterprise project activities inside BEL office with focus on backend systems, data workflows, and AI integration.
 
-HSBC Digital Skills for Youth Program | Yuva Unstoppable
-MERN Full Stack with AI Intern
-3 months | 230 hours
-Technologies: React.js, Node.js, Express.js, MongoDB, JavaScript, REST APIs, Git/GitHub, AI Integration
+MERN Full Stack with AI Trainee | HSBC Digital Skills for Youth Program | Yuva Unstoppable
+3 months
+- Built MERN stack modules using React.js, Node.js, Express.js, MongoDB, JavaScript, REST APIs, and Git/GitHub.
+- Practiced AI integration workflows and production-style full stack development patterns.
 
 Projects
-CareerForge
-AI-based career prediction platform using machine learning.
-Live Demo: https://careerforge-akvt.onrender.com
-GitHub: https://github.com/harsha-b-dev/CareerForge
+K-GIS - Karnataka Geographic Identification System
+Government GIS Project
+- Worked on a GIS-based land identification and approval support system using Karnataka GIS datasets and APIs.
+- Contributed to the core land identification module for locating land through latitude/longitude, survey number, and map-based polygon selection.
+- Enabled land area analysis by identifying district, taluk, rural/urban classification, zone, ward, polygon coordinates, and land distribution across districts.
+- Helped simplify construction feasibility checks by supporting analysis of forest zones, agricultural land, waterbody zones, mineral layers, and other permission-related land classifications.
+- Tech: FastAPI, Python, GeoPandas, Shapely, PyProj, OpenLayers, K-GIS datasets/APIs.
 
-Food Donor
-Full stack food donation platform.
-Live Demo: https://food-donor-o9d5.onrender.com
-GitHub: https://github.com/harsha-b-dev/Food-Donor
+CareerForge - AI Career Prediction Platform
+Live: https://careerforge-akvt.onrender.com
+GitHub: https://github.com/harsha-b-dev/CareerForge
+- Built an AI-based career prediction platform using machine learning models with login/signup and prediction history.
+- Added admin dashboard, CSV export, PWA support, and Android wrapper support.
+- Tech: Python, Flask, SQLite, scikit-learn, XGBoost, Pandas, NumPy, HTML, CSS, JavaScript.
 
 Enterprise AI SQL Assistant
-AI-powered natural language SQL assistant.
-Live Demo: https://ai-sql-chatbot.onrender.com
+Live: https://ai-sql-chatbot.onrender.com
 GitHub: https://github.com/harsha-b-dev/ai-sql-chatbot
+- Developed an AI-powered natural language SQL assistant for converting user questions into SQL queries.
+- Implemented AI summaries, MySQL database browsing, charts, and insight generation.
+- Tech: Python, FastAPI, MySQL, Groq API, JavaScript, Chart.js.
+
+Food Donor - Full Stack Food Donation Platform
+Live: https://food-donor-o9d5.onrender.com
+GitHub: https://github.com/harsha-b-dev/Food-Donor
+- Built a full stack platform for donating, browsing, accepting, and tracking food donations.
+- Created admin dashboard and donation management workflows.
+- Tech: Python, Flask, SQLite, HTML, CSS, Jinja2.
+
+Education
+B.E. in Information Science and Engineering
+Sri Krishna Institute of Technology, Bangalore | CGPA: 8.0
+
+Pre-University
+JS Pre University College, Bangalore | 80%
 
 Certifications
-MERN Full Stack with AI - HSBC
-Test Engineer - Infosys Finishing for Employability Program
-Full Stack Development - Novitech Pvt. Ltd.
-Python Basics for Data Science - EDX
+- MERN Full Stack with AI - HSBC
+- Test Engineer - Infosys Finishing for Employability Program
+- Full Stack Development - Novitech Pvt. Ltd.
+- Python Basics for Data Science - EDX
 
 Achievements
-Amazon ML Challenge 2025 - Team Leader - Secured Top 250 Rank Across India
-Built ML-based discount and pricing optimization project
-Participated in Build for Bengaluru Hackathon
-Participated in ANVESHANA 2026 Project Exhibition
-BEL defence sector AI project exposure
-
-Links
-GitHub: https://github.com/harsha-b-dev
-LinkedIn: https://www.linkedin.com/in/harsha-b-0b1034259/
+- Amazon ML Challenge 2025 - Team Leader; secured Top 250 rank across India.
+- Built an ML-based discount and pricing optimization project.
+- Participated in Build for Bengaluru Hackathon and ANVESHANA 2026 Project Exhibition.
+- Gained BEL defence sector AI project exposure through enterprise AI project activities.

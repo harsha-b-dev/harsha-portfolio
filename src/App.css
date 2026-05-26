@@ -568,6 +568,8 @@ a {
   border: 1px solid var(--line);
   border-radius: 16px;
   object-fit: cover;
+  object-position: top center;
+  background: #ffffff;
   margin-bottom: 18px;
 }
 

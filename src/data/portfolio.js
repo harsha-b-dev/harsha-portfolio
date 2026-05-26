@@ -1,3 +1,7 @@
+import careerForgeCover from "../assets/CareerForge.png"
+import foodDonationCover from "../assets/FoodDonation.png"
+import sqlAssistantCover from "../assets/Sql_Assistance.png"
+
 export const profile = {
   name: "Harsha B",
   role: "AI & Full Stack Developer",
@@ -10,7 +14,7 @@ export const profile = {
   phone: "9900469878",
   whatsapp: "https://wa.me/919900469878",
   email: "harshab845384@gmail.com",
-  resume: "/Harsha_B_Resume.txt",
+  resume: "/Harsha_Resume.pdf",
 }
 
 export const navItems = [
@@ -131,7 +135,7 @@ export const projects = [
     name: "CareerForge",
     type: "AI Career Platform",
     impact: "ML prediction, admin workflows, export, and PWA support",
-    cover: "/project-covers/careerforge.svg",
+    cover: careerForgeCover,
     description:
       "AI-based career prediction platform using machine learning with user accounts, prediction history, admin controls, CSV export, PWA support, and Android wrapper support.",
     features: [
@@ -155,7 +159,7 @@ export const projects = [
     name: "Food Donor",
     type: "Full Stack Social Impact App",
     impact: "Donation lifecycle, admin management, and tracking",
-    cover: "/project-covers/food-donor.svg",
+    cover: foodDonationCover,
     description:
       "Full stack food donation platform for donating, browsing, accepting, and tracking food donations through an admin dashboard.",
     features: [
@@ -171,7 +175,7 @@ export const projects = [
     name: "Enterprise AI SQL Assistant",
     type: "Enterprise AI Tool",
     impact: "Natural language SQL, summaries, charts, and MySQL browsing",
-    cover: "/project-covers/sql-assistant.svg",
+    cover: sqlAssistantCover,
     description:
       "AI-powered natural language SQL assistant that converts questions into SQL, summarizes answers, browses databases, and creates chart insights.",
     features: [
