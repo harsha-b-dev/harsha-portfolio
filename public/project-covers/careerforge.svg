@@ -1,0 +1,22 @@
+<svg width="1200" height="760" viewBox="0 0 1200 760" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="760" rx="44" fill="#050816"/>
+  <rect x="1" y="1" width="1198" height="758" rx="43" stroke="#22D3EE" stroke-opacity=".2" stroke-width="2"/>
+  <circle cx="1010" cy="128" r="210" fill="#8B5CF6" opacity=".22"/>
+  <circle cx="198" cy="640" r="240" fill="#22D3EE" opacity=".16"/>
+  <rect x="84" y="78" width="1032" height="604" rx="34" fill="#0B1020" stroke="#263452" stroke-width="2"/>
+  <rect x="132" y="130" width="936" height="86" rx="24" fill="#111A2D"/>
+  <circle cx="172" cy="173" r="12" fill="#FB7185"/>
+  <circle cx="210" cy="173" r="12" fill="#FBBF24"/>
+  <circle cx="248" cy="173" r="12" fill="#34D399"/>
+  <rect x="132" y="264" width="390" height="306" rx="30" fill="#111827"/>
+  <rect x="170" y="306" width="214" height="24" rx="12" fill="#22D3EE"/>
+  <rect x="170" y="358" width="292" height="18" rx="9" fill="#CBD5E1" opacity=".8"/>
+  <rect x="170" y="402" width="245" height="18" rx="9" fill="#64748B"/>
+  <rect x="170" y="486" width="154" height="46" rx="23" fill="#22D3EE"/>
+  <path d="M682 542C806 542 906 442 906 318" stroke="#22D3EE" stroke-width="20" stroke-linecap="round"/>
+  <path d="M682 542C603 542 538 478 538 398" stroke="#8B5CF6" stroke-width="20" stroke-linecap="round"/>
+  <circle cx="682" cy="542" r="42" fill="#22D3EE"/>
+  <circle cx="906" cy="318" r="42" fill="#8B5CF6"/>
+  <text x="132" y="638" fill="#F8FBFF" font-family="Arial, sans-serif" font-size="58" font-weight="900">CareerForge</text>
+  <text x="132" y="690" fill="#22D3EE" font-family="Arial, sans-serif" font-size="28" font-weight="800">AI career prediction platform</text>
+</svg>
