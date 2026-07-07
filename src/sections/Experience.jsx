@@ -7,8 +7,8 @@ function Experience() {
     <section className="section" id="experience">
       <SectionHeader
         eyebrow="Experience"
-        title="Internship experience across AI, MERN, APIs, and deployment."
-        copy="Hands-on work building AI-integrated applications, backend services, dashboards, and database-driven systems."
+        title="Professional experience across AI, full stack systems, APIs, and deployment."
+        copy="Hands-on work building AI-integrated applications, backend services, dashboards, and production-ready database-driven systems."
       />
 
       <div className="timeline">

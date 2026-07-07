@@ -133,27 +133,6 @@ export const experiences = [
       "Swagger",
     ],
   },
-  {
-    company: "HSBC Digital Skills for Youth Program | Yuva Unstoppable",
-    role: "MERN Full Stack with AI Trainee",
-    date: "3 months",
-    summary:
-      "Completed an intensive MERN full stack internship focused on practical development, REST APIs, Git workflows, and AI integration.",
-    highlights: [
-      "Developed full stack modules with React.js, Node.js, Express.js, and MongoDB.",
-      "Practiced production-style API development, source control, and AI-enhanced application patterns.",
-    ],
-    tech: [
-      "React.js",
-      "Node.js",
-      "Express.js",
-      "MongoDB",
-      "JavaScript",
-      "REST APIs",
-      "Git/GitHub",
-      "AI Integration",
-    ],
-  },
 ]
 
 export const projects = [
@@ -239,7 +218,7 @@ export const achievements = [
   {
     title: "BEL Defence Sector AI Exposure",
     detail:
-      "Gained enterprise AI project exposure while working from the Bharat Electronics Limited office during internship activities.",
+      "Gained enterprise AI project exposure while working from the Bharat Electronics Limited office on AI-oriented project activities.",
   },
 ]
 
