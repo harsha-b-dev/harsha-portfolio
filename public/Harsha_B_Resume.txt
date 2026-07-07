@@ -16,6 +16,13 @@ AI/ML & Data: Machine Learning, AI Integration, scikit-learn, XGBoost, Pandas, N
 Analytics/Tools: Power BI, Tableau, Excel, Chart.js, Swagger, Postman, Git, GitHub, Render
 
 Professional Experience
+Software Engineer | Zucus Technologies Pvt. Ltd. (Remote)
+May 2025 - Present
+- Independently designed, built, and deployed an AI-powered SQL Assistant enabling non-technical users to query databases in natural language using RAG, vector database retrieval, NLP pipelines, and the Groq API.
+- Built automatic chart generation (pie/bar) from query results and deployed the application to a live production server on Render.
+- Owned the project end-to-end from data pipeline and backend APIs to frontend UI, deployment, and production readiness.
+- Contributed to additional full-stack and generative AI project work for client engagements.
+
 AI Junior Engineer | BEL (Bharat Electronics Limited) / E2E Rosh IT Solutions India Pvt Ltd
 Jan 2026 - May 2026
 - Built AI-integrated full stack application modules using Python, FastAPI, MySQL, MongoDB, JavaScript, and Groq API.

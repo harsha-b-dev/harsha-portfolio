@@ -27,7 +27,7 @@ export const navItems = [
 
 export const metrics = [
   { value: "3+", label: "Production projects" },
-  { value: "2", label: "Full stack internships" },
+  { value: "1+ yr", label: "Software engineering" },
   { value: "Top 250", label: "Amazon ML Challenge" },
 ]
 
@@ -86,15 +86,41 @@ export const skillGroups = [
 
 export const experiences = [
   {
+    company: "Zucus Technologies Pvt. Ltd. (Remote)",
+    role: "Software Engineer",
+    date: "May 2025 - Present",
+    summary:
+      "Working on full stack and AI/ML development, building production-ready AI applications from backend pipelines to frontend deployment.",
+    highlights: [
+      "Independently designed, built, and deployed an AI-powered SQL Assistant enabling non-technical users to query databases in natural language using RAG, vector database retrieval, NLP pipelines, and Groq API.",
+      "Built automatic pie/bar chart generation from query results and deployed the application to a live production server on Render.",
+      "Owned the project end-to-end from data pipeline and backend APIs to frontend UI, deployment, and production readiness.",
+      "Contributed to additional full-stack and generative AI project work for client engagements.",
+    ],
+    tech: [
+      "Python",
+      "FastAPI",
+      "React.js",
+      "MySQL",
+      "RAG",
+      "Vector Database",
+      "Groq API",
+      "NLP",
+      "Chart.js",
+      "Render",
+    ],
+  },
+  {
     company: "E2E Rosh IT Solutions India Pvt Ltd",
-    role: "AI-Powered Full Stack Development Intern",
+    role: "Junior Software Engineer",
     date: "Jan 2026 - May 2026",
     summary:
-      "Worked on AI-integrated full stack applications, REST APIs, cloud deployment, interactive dashboards, and database systems.",
+      "Worked on AI-integrated full stack applications, REST APIs, cloud deployment, dashboards, and database systems in a defence-sector enterprise environment.",
     highlights: [
-      "Built backend services with Python, FastAPI, MySQL, MongoDB, and Groq API integration.",
-      "Created browser-based interfaces using HTML, CSS, JavaScript, Chart.js, Swagger, and GitHub workflows.",
-      "Worked inside BEL office as AI Junior Engineer during the internship period on AI-oriented enterprise project activities.",
+      "Built AI-integrated full-stack application modules using Python, FastAPI, MySQL, MongoDB, JavaScript, and Groq API.",
+      "Developed REST APIs, interactive dashboards, and deployment-ready backend features.",
+      "Used Chart.js, Swagger, Render, and GitHub for documentation, visualization, deployment, and version control.",
+      "Worked on-site at BEL (Bharat Electronics Limited) for AI-oriented enterprise project activities.",
     ],
     tech: [
       "Python",
@@ -109,8 +135,8 @@ export const experiences = [
   },
   {
     company: "HSBC Digital Skills for Youth Program | Yuva Unstoppable",
-    role: "MERN Full Stack with AI Intern",
-    date: "3 months | 230 hours",
+    role: "MERN Full Stack with AI Trainee",
+    date: "3 months",
     summary:
       "Completed an intensive MERN full stack internship focused on practical development, REST APIs, Git workflows, and AI integration.",
     highlights: [
