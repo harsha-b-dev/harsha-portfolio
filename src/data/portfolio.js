@@ -14,7 +14,7 @@ export const profile = {
   phone: "9900469878",
   whatsapp: "https://wa.me/919900469878",
   email: "harshab845384@gmail.com",
-  resume: "/Harsha_Resume.pdf",
+  resume: "/Harsha_B_Resume_AIML.pdf",
 }
 
 export const navItems = [
