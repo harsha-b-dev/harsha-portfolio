@@ -60,7 +60,11 @@ function Contact() {
         </div>
 
         <div className="contact-actions">
-          <a className="button button-primary" href={profile.resume} download>
+          <a
+            className="button button-primary"
+            href={profile.resume}
+            download="Harsha_B_Resume_AIML.pdf"
+          >
             <FiDownload />
             Download Resume
           </a>

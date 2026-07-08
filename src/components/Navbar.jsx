@@ -49,7 +49,11 @@ function Navbar() {
           >
             <FiLinkedin />
           </a>
-          <a className="nav-resume" href={profile.resume} download>
+          <a
+            className="nav-resume"
+            href={profile.resume}
+            download="Harsha_B_Resume_AIML.pdf"
+          >
             <FiDownload />
             Resume
           </a>

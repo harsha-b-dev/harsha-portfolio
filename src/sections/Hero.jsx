@@ -35,7 +35,11 @@ function Hero() {
             View Projects
             <FiArrowDown />
           </a>
-          <a className="button button-secondary" href={profile.resume} download>
+          <a
+            className="button button-secondary"
+            href={profile.resume}
+            download="Harsha_B_Resume_AIML.pdf"
+          >
             <FiDownload />
             Resume
           </a>
